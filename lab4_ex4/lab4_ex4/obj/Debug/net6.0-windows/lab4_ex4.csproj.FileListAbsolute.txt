@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\bin\Debug\net6.0-windows\lab4_ex4.exe
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\bin\Debug\net6.0-windows\lab4_ex4.deps.json
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\bin\Debug\net6.0-windows\lab4_ex4.runtimeconfig.json
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\bin\Debug\net6.0-windows\lab4_ex4.dll
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\bin\Debug\net6.0-windows\ref\lab4_ex4.dll
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\bin\Debug\net6.0-windows\lab4_ex4.pdb
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.Form1.resources
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.AssemblyInfo.cs
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.dll
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\ref\lab4_ex4.dll
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.pdb
+\\Mac\Home\Desktop\c_sharp2\lab_4\lab4_ex4\lab4_ex4\obj\Debug\net6.0-windows\lab4_ex4.genruntimeconfig.cache
